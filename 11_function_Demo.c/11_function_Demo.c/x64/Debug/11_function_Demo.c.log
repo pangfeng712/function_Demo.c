@@ -1,0 +1,3 @@
+﻿  11_function_Demo.c.cpp
+E:\c语言\code.c\function_demo.c\11_function_Demo.c\11_function_Demo.c\11_function_Demo.c.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  11_function_Demo.c.vcxproj -> E:\c语言\code.c\function_demo.c\11_function_Demo.c\x64\Debug\11_function_Demo.c.exe
